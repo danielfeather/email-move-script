@@ -1,0 +1,16 @@
+{
+    "name": "danielfeather/testgraphexample",
+    "description": "Test",
+    "type": "project",
+    "require": {
+        "microsoft/microsoft-graph": "^1.13",
+        "league/oauth2-client": "^2.4",
+        "nesbot/carbon": "^2.35"
+    },
+    "authors": [
+        {
+            "name": "mrfevs",
+            "email": "mrfevs@users.noreply.github.com"
+        }
+    ]
+}
