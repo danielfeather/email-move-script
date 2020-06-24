@@ -2,8 +2,8 @@ const axios = require('axios');
 const qs = require('querystring');
 
 const authConfig = {
-    client_id: 'f102452b-b793-4ba8-aab0-4974495c3f84',
-    client_secret: 'pU~QlyL3hv~5Dv_AUpo6bh1m0~RJvu-.-8',
+    client_id: '',
+    client_secret: '',
     token_endpoint: 'https://login.microsoftonline.com/6e26a76f-adf1-4e9e-8eea-25f26bf52a0f/oauth2/v2.0/token',
     scope: 'https://graph.microsoft.com/.default',
     grant_type: 'client_credentials'
